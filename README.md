@@ -4,5 +4,5 @@ The website will consist of landing page which will look like ![alt text](https:
 With using the following colors and font ![alt text](https://user-images.githubusercontent.com/50716392/163684151-e1d02a24-4ce4-4616-aef6-0cd017f92c92.png).
 
 
-Credit for images used for this site :)
+Credit for images used for this site :)  
 Photo by Mike Marchetti - Brown Rocky Mountain Beside Blue Sea Under Blue Sky: https://www.pexels.com/photo/sea-landscape-beach-vacation-10328926/
