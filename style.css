@@ -39,6 +39,7 @@ a{
 }
 
 .hero {
+    font-family: Roboto, sans-serif;
     width: 400px;
     font-size: 48px;
     font-weight: 900;
@@ -75,6 +76,8 @@ button {
 }
 
 img {
+    border: none;
+    border-radius: 4px;
     width: 450px;
     height: 200px;
 }
@@ -85,13 +88,18 @@ img {
     align-items: center;
     justify-content: center;
     gap: 460px;
-    flex-shrink: 0;
+    flex: 1 0 0 ;
     padding: 0;
-    margin-bottom: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
 }
 
 .highlight {
     margin: 40px;
+    margin-bottom: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 20px;
     display: flex;
     align-items: center;
     justify-content: center;
