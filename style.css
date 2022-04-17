@@ -185,6 +185,7 @@ button {
 .footer {
     min-width: 72px;
     height: 50px;
+    padding: 10px;
     display: flex;
     justify-content: center;
     align-items: center;
